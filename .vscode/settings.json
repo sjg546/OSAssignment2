@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "hosts": "apacheconf",
+        "*.erb": "erb",
+        "iomanip": "cpp"
+    }
+}

@@ -1,3 +1,3 @@
 #!/bin/bash
-g++ PageReplacement.cpp -o run
-./run input.txt 4096 3 WSARB 4 3 3
+g++ -std=c++11 PageReplacement.cpp -o run
+./run input.txt 4096 3 ARB 3 3
